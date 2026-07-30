@@ -1,0 +1,1 @@
+import{$ as e,A as t,B as n,V as r}from"./chunks/framework.qypF2UUz.js";var i=JSON.parse(`{"title":"Where to Find Me","description":"","frontmatter":{},"headers":[],"relativePath":"contact.md","filePath":"contact.md"}`),a={name:`contact.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",5)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};
